@@ -3,10 +3,11 @@ Main:
   * Web:
     ^ HTML: Youtube by WPU
     ^ CSS: Youtube by WPU
-  * Cyber Security  
+  * Cyber Security
 Option:
-  Java Srcipt
-  Python
-  React
-  Laravel
-  API
+  * Java Srcipt
+  * Python
+  * React
+  * Laravel
+  * API
+  * Network
