@@ -1,9 +1,11 @@
 Main:
   * Bahasa Inggris
   * Web:
-    ^ HTML: Youtube by WPU
+    ^ HTML: Youtube by WPU (On Going)
     ^ CSS: Youtube by WPU
   * Cyber Security
+  * AI:
+    ^ Claude: Youtube by Metics Media, Garry Audie, Net Ninja (On Going)
 Option:
   * Java Srcipt
   * Python
