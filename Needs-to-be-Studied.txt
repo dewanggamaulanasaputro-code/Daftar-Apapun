@@ -1,6 +1,12 @@
-Bahasa Inggris
-Java Srcipt
-Python
-React
-Laravel
-API
+Main:
+  * Bahasa Inggris
+  * Web:
+    ^ HTML
+    ^ CSS
+  * Cyber Security  
+Option:
+  Java Srcipt
+  Python
+  React
+  Laravel
+  API
