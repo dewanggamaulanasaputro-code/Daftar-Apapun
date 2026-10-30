@@ -1,8 +1,8 @@
 Main:
   * Bahasa Inggris
   * Web:
-    ^ HTML
-    ^ CSS
+    ^ HTML: Youtube by WPU
+    ^ CSS: Youtube by WPU
   * Cyber Security  
 Option:
   Java Srcipt
