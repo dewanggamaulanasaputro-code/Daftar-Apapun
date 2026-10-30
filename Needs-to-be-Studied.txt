@@ -6,9 +6,10 @@ Main:
   * Cyber Security
   * AI:
     ^ Claude: Youtube by Metics Media, Garry Audie, Net Ninja (On Going)
-Option:N
-  Java Srcipt
-  Python
-  React
-  Laravel
-  API
+Option:
+  * Java Srcipt
+  * Python
+  * React
+  * Laravel
+  * API
+  * Network
